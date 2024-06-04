@@ -2,5 +2,9 @@
     "email-verification.title": "Veuillez vérifier votre email",
     "email-verification.content.title": "Un pas de plus pour accéder à votre compte",
     "email-verification.content.description": "Utilisez le lien ci-dessous pour vérifier votre adresse email",
-    "email-verification.content.submit": "Confirmer l'email"
+    "email-verification.content.submit": "Confirmer l'email",
+    "password-reset.title": "Réinitialiser votre mot de passe",
+    "password-reset-content": "Utilisez le lien ci-dessous pour réinitialiser votre mot de passe",
+    "password-reset.content.description": "Si vous n'avez pas demandé de réinitialisation de mot de passe, vous pouvez ignorer cet email en toute sécurité.",
+    "password-reset.submit": "Réinitialiser le mot de passe"
 }

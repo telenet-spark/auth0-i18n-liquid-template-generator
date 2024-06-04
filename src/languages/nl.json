@@ -2,5 +2,9 @@
     "email-verification.title": "Bevestig je e-mailadres",
     "email-verification.content.title": "Nog één stap verwijderd van toegang tot je account",
     "email-verification.content.description": "Gebruik de onderstaande link om je e-mailadres te verifiëren",
-    "email-verification.content.submit": "Bevestig e-mail"
+    "email-verification.content.submit": "Bevestig e-mail",
+    "password-reset.title": "Wachtwoord opnieuw instellen",
+    "password-reset-content": "Gebruik de onderstaande link om je wachtwoord opnieuw in te stellen",
+    "password-reset.content.description": "Als je dit niet hebt aangevraagd, hoef je verder niets te doen. Je wachtwoord wordt niet gewijzigd.",
+    "password-reset.submit": "Wachtwoord opnieuw instellen"
 }

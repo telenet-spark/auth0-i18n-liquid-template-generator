@@ -2,5 +2,9 @@
     "email-verification.title": "Please verify your email",
     "email-verification.content.title": "One step away from accessing your account",
     "email-verification.content.description": "Use the link below to verify your email address",
-    "email-verification.content.submit": "Confirm email"
+    "email-verification.content.submit": "Confirm email",
+    "password-reset.title": "Reset your password",
+    "password-reset-content": "Use the link below to reset your password",
+    "password-reset.content.description": "If you did not request a password reset, please ignore this email",
+    "password-reset.submit": "Reset password"
 }
